@@ -16,7 +16,7 @@ import javax.xml.transform.stream.StreamResult;
 
 /**
  *
- * @author Apolinar T
+ * @author Miguel
  */
 public class DOMHelper {
 
