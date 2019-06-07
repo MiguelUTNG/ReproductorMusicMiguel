@@ -13,7 +13,7 @@ import javazoom.jl.player.Player;
 
 /**
  *
- * @author Sergio
+ * @author Miguel
  */
 public class Principal {
  public static void main(String[] args) {
