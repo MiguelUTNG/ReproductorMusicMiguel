@@ -8,7 +8,7 @@ package clases;
 
 /**
  *
- * @author usuario
+ * @author Miguel
  */
 public class Cancion {
     private int id;
