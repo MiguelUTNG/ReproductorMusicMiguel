@@ -7,7 +7,7 @@ package clases;
 
 /**
  *
- * @author usuario
+ * @author Miguel
  */
 public class NodoD {
 
