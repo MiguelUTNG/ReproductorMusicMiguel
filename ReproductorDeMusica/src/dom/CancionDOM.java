@@ -16,7 +16,7 @@ import org.w3c.dom.NodeList;
 
 /**
  *
- * @author usuario
+ * @author Miguel
  */
 public class CancionDOM {
 
